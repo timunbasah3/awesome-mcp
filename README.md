@@ -88,6 +88,10 @@ awesome-mcp not only provides tools but also links to documents and tutorials ab
 - Tutorials on using Claude for various tasks
 - Best practices for integrating AI tools into your workflow
 
+### Featured MCP servers
+
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Secure local MCP bridge for AI clients to discover, inspect, and run models and APIs from a catalog of 2,000+ AI models.
+
 ## 📝 Contributing
 If you would like to contribute to awesome-mcp, we welcome your input! Check out our contribution guidelines on GitHub to learn how to help improve our resource list.
 
