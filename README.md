@@ -92,3 +92,7 @@ awesome-mcp not only provides tools but also links to documents and tutorials ab
 If you would like to contribute to awesome-mcp, we welcome your input! Check out our contribution guidelines on GitHub to learn how to help improve our resource list.
 
 Remember to follow the simple steps to download and install awesome-mcp for a seamless experience with your AI tools. Enjoy using your new software!
+
+## Servers
+
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) — Background check any company in the world: registration, executives, courts and finances. (`https://statsnet.co/mcp`, `io.github.usenetstate/statsnet`)
