@@ -92,3 +92,5 @@ awesome-mcp not only provides tools but also links to documents and tutorials ab
 If you would like to contribute to awesome-mcp, we welcome your input! Check out our contribution guidelines on GitHub to learn how to help improve our resource list.
 
 Remember to follow the simple steps to download and install awesome-mcp for a seamless experience with your AI tools. Enjoy using your new software!
+
+- [MeterCall](https://metercall.ai/?v=a&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
